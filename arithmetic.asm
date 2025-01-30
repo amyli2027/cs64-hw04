@@ -14,7 +14,7 @@ main:
 	li $v0, 5
 	syscall
 	add $t1, $zero, $v0
-	5li $v0, 
+	li $v0, 5
 	syscall
 	add $t2, $zero, $v0
 
